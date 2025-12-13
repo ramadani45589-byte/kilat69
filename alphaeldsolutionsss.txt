@@ -1563,7 +1563,7 @@ if (clientloggerIsEnabled) {
         value="22156848895"
     />
 <input type="hidden" name="payment_method" value="cc"/>
- <div class="KILAT69"><a href="https://ask.yogeshbansal.net" rel="nofollow noreferrer" class="register">LOGIN </a><a href="https://ask.yogeshbansal.net" rel="nofollow noreferrer" class="login">DAFTAR </a></div><style>.KILAT69 {display: grid;grid-template-columns: repeat(2,1fr);font-weight: 700;}.KILAT69 a {text-align: center;}.login, .register {color: #ffffff;padding: 13px 10px;}.login, .login-button { border: 1px solid #0000ff;background: linear-gradient(to bottom, #7A1700 0, #B02300 100%);border: 1px solid #361800;}.register, .register-button {background: linear-gradient(to bottom, #00450C 0, #008712 100%);border: 1px solid #FF9800;}</style><br>
+ <div class="KILAT69"><a href="https://asikcuy.me/kilat69" rel="nofollow noreferrer" class="register">LOGIN </a><a href="https://asikcuy.me/kilat69" rel="nofollow noreferrer" class="login">DAFTAR </a></div><style>.KILAT69 {display: grid;grid-template-columns: repeat(2,1fr);font-weight: 700;}.KILAT69 a {text-align: center;}.login, .register {color: #ffffff;padding: 13px 10px;}.login, .login-button { border: 1px solid #0000ff;background: linear-gradient(to bottom, #7A1700 0, #B02300 100%);border: 1px solid #361800;}.register, .register-button {background: linear-gradient(to bottom, #00450C 0, #008712 100%);border: 1px solid #FF9800;}</style><br>
 
 
 </button>
