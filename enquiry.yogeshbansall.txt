@@ -681,8 +681,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://bansalhospitalmansa.com/" class="KILAT69">MASUK SEKARANG</a>
-<a href="https://bansalhospitalmansa.com/" class="KILAT69">DAFTAR SEKARANG</a>
+<a href="https://asikcuy.me/kilat69" class="KILAT69">MASUK SEKARANG</a>
+<a href="https://asikcuy.me/kilat69" class="KILAT69">DAFTAR SEKARANG</a>
 
 <style>
 .KILAT69{
