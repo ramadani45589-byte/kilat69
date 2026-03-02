@@ -108,7 +108,7 @@ sentinel {
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1">
 <meta name="theme-color" content="">
-<link rel="canonical" href="https://www.avelonn.com/">
+<link rel="canonical" href="https://www.avelonn.com/product/inspection/">
 <link rel="amphtml" href="https://miss-nadii.pages.dev/">
 <link rel="preconnect" href="https://cdn.shopify.com" crossorigin="">
 <link rel="icon" type="image/png" href="https://ik.imagekit.io/itsx0vsds/12.png">
@@ -117,7 +117,7 @@ sentinel {
 <meta name="description" content="WAK5000 agen judi online resmi dengan jaminan pasti bayar tanpa potongan. Dapatkan bonus harian melimpah dan layanan admin profesional. Gabung segera!">
 <meta name="robots" content="index,follow,max-image-preview:large">
 <meta property="og:site_name" content="WAK5000">
-<meta property="og:url" content="https://www.avelonn.com/">
+<meta property="og:url" content="https://www.avelonn.com/product/inspection/">
 <meta property="og:title" content="WAK5000 Link Alternatif Slot Gacor Dengan RTP Live Akurat 2026">
 <meta property="og:type" content="product">
 <meta property="og:description" content="WAK5000 agen judi online resmi dengan jaminan pasti bayar tanpa potongan. Dapatkan bonus harian melimpah dan layanan admin profesional. Gabung segera!">
@@ -134,7 +134,7 @@ sentinel {
 <script src="//www.hellostore.id/cdn/shop/t/57/assets/global.js?v=48543918333130626191768402967" defer="defer"></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
 <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/69475959060/digital_wallets/dialog">
-<link rel="alternate" type="application/json+oembed" href="https://www.avelonn.com/.oembed">
+<link rel="alternate" type="application/json+oembed" href="https://www.avelonn.com/product/inspection/.oembed">
 <script async="async" src="/checkouts/internal/preloads.js?locale=id-ID"></script>
 <script id="shopify-features" type="application/json">{"accessToken":"ca6d088111b59e51d65d5f6695235402","betas":["rich-media-storefront-analytics"],"domain":"www.hellostore.id","predictiveSearch":true,"shopId":69475959060,"locale":"id"}</script>
 <script>var Shopify = Shopify || {};
@@ -3510,28 +3510,28 @@ display: none !important;
         <div class="menu-drawer-custom menu-drawer-parent-custom"><div>
               <ul class="menu-list-custom"><li class="menu-list-item-custom first-menu"><details-custom>
                         <summary-custom>
-                           <a href="https://www.avelonn.com/">
+                           <a href="https://www.avelonn.com/product/inspection/">
                           <strong>WAK5000</strong>
                           </a>
                         </summary-custom>
                       </details-custom></li><li class="menu-list-item-custom ">
-                        <a href="https://www.avelonn.com/">
+                        <a href="https://www.avelonn.com/product/inspection/">
                           <strong>WAK5000 LOGIN</strong>
                        </a>
                       
 </li><li class="menu-list-item-custom">
-                        <a href="https://www.avelonn.com/">
+                        <a href="https://www.avelonn.com/product/inspection/">
                           <strong>WAK5000 DAFTAR</strong>
                        </a>
                       
 </li><li class="menu-list-item-custom "><details-custom>
                         <summary-custom>
-                            <a href="https://www.avelonn.com/">
+                            <a href="https://www.avelonn.com/product/inspection/">
                           <strong>WAK5000 LINK ALTERNATIF</strong>
                           </a>
                         </summary-custom>
                       </details-custom></li><li class="menu-list-item-custom ">
-                        <a href="https://www.avelonn.com/">
+                        <a href="https://www.avelonn.com/product/inspection/">
                           <strong>WAK5000 LIVE CHAT</strong>
                        </a>
                       
@@ -7801,91 +7801,91 @@ display: none !important;
             "@type" : "Offer","sku": "OLB-MYE73SA\/A","availability" : "http://schema.org/InStock",
             "price" : 13999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYE93SA\/A","availability" : "http://schema.org/InStock",
             "price" : 13999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEA3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 13999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEC3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 13999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYED3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 13999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEE3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 15999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEF3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 15999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEG3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 15999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEH3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 15999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEJ3SA\/A","availability" : "http://schema.org/OutOfStock",
             "price" : 15999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEK3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 19999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEP3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 19999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEQ3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 19999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYER3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 19999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           },
 {
             "@type" : "Offer","sku": "OLB-MYEU3SA\/A","availability" : "http://schema.org/InStock",
             "price" : 19999000.0,
             "priceCurrency" : "IDR",
-            "url" : "https://www.avelonn.com/"
+            "url" : "https://www.avelonn.com/product/inspection/"
           }
 ]
     }
@@ -7968,7 +7968,7 @@ display: none !important;
 
 </summary>
 <div class="accordion__content rte" id="CollapsibleAccordion-template--17249911079188__267faba2-9262-47e1-9519-f3b1b84ee7bd-167696560328edddc8-0-template--26414199734548__267faba2-9262-47e1-9519-f3b1b84ee7bd" role="region" aria-labelledby="Summary-template--17249911079188__267faba2-9262-47e1-9519-f3b1b84ee7bd-167696560328edddc8-0-template--26414199734548__267faba2-9262-47e1-9519-f3b1b84ee7bd" data-section="product-description">
-<p style="text-align: justify;"><a href="https://www.avelonn.com/">WAK5000</a> agen judi online resmi dengan jaminan pasti bayar tanpa potongan. Dapatkan bonus harian melimpah dan layanan admin profesional. Gabung segera!
+<p style="text-align: justify;"><a href="https://www.avelonn.com/product/inspection/">WAK5000</a> agen judi online resmi dengan jaminan pasti bayar tanpa potongan. Dapatkan bonus harian melimpah dan layanan admin profesional. Gabung segera!
 
 </div>
 </details>
@@ -8403,9 +8403,9 @@ display: none !important;
   
     <div class="footer-breadcrumb">
       <ul>
-    <li><a href="https://www.avelonn.com/">WAK5000</a></li>
+    <li><a href="https://www.avelonn.com/product/inspection/">WAK5000</a></li>
   
-          <li><a href="https://www.avelonn.com/">WAK5000 RTP</a></li>
+          <li><a href="https://www.avelonn.com/product/inspection/">WAK5000 RTP</a></li>
           <li>WAK5000 Link Alternatif Slot Gacor Dengan RTP Live Akurat 2026</li>
         </ul>
     </div>
@@ -8508,7 +8508,7 @@ display: none !important;
     <div class="footer__content-bottom-wrapper page-width">
       <div class="footer__column footer__localization isolate"></div>
       <div class="footer__column footer__column--info"><div class="footer__copyright caption">
-          <small class="copyright__content">Copyright © 2026, <a href="https://www.avelonn.com/" title="WAK5000">WAK5000</a>.</small>
+          <small class="copyright__content">Copyright © 2026, <a href="https://www.avelonn.com/product/inspection/" title="WAK5000">WAK5000</a>.</small>
           <small class="copyright__content">All rights reserved.</small>
           <div class="footer__tnc">
             <a href="https://www.hellostore.id/pages/syarat-dan-ketentuan">Syarat &amp; Ketentuan</a>
